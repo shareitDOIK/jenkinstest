@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
   public static void main(String[] args) {
-    System.out.println("쉘 테스트");
+    System.out.println("쉘1");
     SpringApplication.run(DemoApplication.class, args);
   }
 
